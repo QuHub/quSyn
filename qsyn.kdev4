@@ -1,0 +1,4 @@
+[Project]
+Name=qsyn
+Manager=KDevCMakeManager
+VersionControl=kdevgit
