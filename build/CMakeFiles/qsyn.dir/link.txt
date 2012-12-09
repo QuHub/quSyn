@@ -1,0 +1,1 @@
+/usr/bin/c++   -g    CMakeFiles/qsyn.dir/Algorithms/coveredsetpartition.cpp.o CMakeFiles/qsyn.dir/Conductors/randomconductor.cpp.o CMakeFiles/qsyn.dir/function.cpp.o CMakeFiles/qsyn.dir/option.cpp.o CMakeFiles/qsyn.dir/qsyn.cpp.o CMakeFiles/qsyn.dir/main.cpp.o  -o qsyn -rdynamic -lQtCore /usr/local/lib/libyaml-cpp.a -lboost_filesystem 

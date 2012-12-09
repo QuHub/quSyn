@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/mmh/src/quantum/synthesis/qsyn/common.h
+iostream
+-
+
+/home/mmh/src/quantum/synthesis/qsyn/function.cpp
+function.h
+/home/mmh/src/quantum/synthesis/qsyn/function.h
+iostream
+-
+yaml-cpp/yaml.h
+-
+boost/filesystem.hpp
+/home/mmh/src/quantum/synthesis/qsyn/boost/filesystem.hpp
+boost/algorithm/string.hpp
+-
+
+/home/mmh/src/quantum/synthesis/qsyn/function.h
+option.h
+/home/mmh/src/quantum/synthesis/qsyn/option.h
+
+/home/mmh/src/quantum/synthesis/qsyn/option.h
+common.h
+/home/mmh/src/quantum/synthesis/qsyn/common.h
+
